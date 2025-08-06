@@ -3,6 +3,10 @@
 
 ---
 
+## 📚 Features
+
+ . Entity: Customers , Products , Categories , Order , Order-details
+ 
 ## 🗂️ Entity Relationship Diagram
    ![assets](assets/E-commerce-Tables.png)
 
