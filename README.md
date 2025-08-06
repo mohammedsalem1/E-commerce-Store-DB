@@ -1,10 +1,12 @@
 # 🛒E-commerce-Store-DB
-Analyze the e-commerce database and write some queries in the best way.
+## This project demonstrates a basic relational database design for an e-commerce platform using MySQL. It includes an ERD, schema diagram, SQL scripts to create and populate tables, sample reporting queries, and a denormalized version for performance testing.
+
+---
 
 ## 🗂️ Entity Relationship Diagram
    ![assets](assets/E-commerce-Tables.png)
 
-## Wriet sql queries in e-commerce - table:   
+##  Sql queries in e-commerce - table:   
  
 ### 1. Generate a daily report of the total revenue for a specific date.
 <details>
