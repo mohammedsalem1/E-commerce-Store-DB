@@ -61,4 +61,5 @@
 ## 💾 Tools  
 
 - **MySQL 8.0+** (or any compatible database engine)  
-- **SQL Client or IDE** (e.g., MySQL Workbench, DBeaver, or HeidiSQL)  
+- **MySQL Workbench**
+
