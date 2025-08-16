@@ -1,8 +1,8 @@
-# Write database functions to insert data in the product table around 100k rows
+# Write database Procedure to insert data in the product table around 100k rows
 
 
 ```sql
-CREATE DEFINER=`root`@`localhost` PROCEDURE `insert_products_batch`(
+CREATE PROCEDURE insert_products_batch(
     IN start_i INT,
     IN end_i INT,
     IN batch_size INT

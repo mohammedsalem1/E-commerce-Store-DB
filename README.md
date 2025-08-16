@@ -37,28 +37,26 @@
 
 
 
-- ### Functions
-- [Function to insert around 100k rows into the `products` table](functions/function-insert-100k-products.md)
+- ### Procedures
+   -  [Function to insert around 100k rows into the `products` table](Procedures/Procedure-insert-100k-products.md)
 
-- [Function to insert around 100 rows into the `categories` table](functions/function-insert-100k-products.md)
+   - [Function to insert around 100 rows into the `categories` table](Procedures/Procedure-insert-100-categories.md)
 
-- [Function to insert around 100k rows into the `customers` table](functions/function-insert-100k-customers.md)
+   - [Function to insert around 1million rows into the `customers` table](Procedures/Procedure-insert-1million-customer.md)
 
-
-- [Function to insert around 100k rows into the `orders` table](functions/function-insert-100k-customers.md)
 
 
 - ### 🚀 Performance Tuning
 
-- [Case 1 – Retrieve Total Number of Products in Each Category](Performance-Tuning/case1-number-of-products-each-category.md)
+   - [Case 1 – Retrieve Total Number of Products in Each Category](Performance-Tuning/case1-number-of-products-each-category.md)
 
-- [Case 2 - Find the top customers by total spending](Performance-Tuning/case2-Find-top-customers-totalSpending.md)
+   - [Case 2 - Find the top customers by total spending](Performance-Tuning/case2-Find-top-customers-totalSpending.md)
 
-- [Case 3 - Most Recent Orders with customer information](Performance-Tuning/case3-Most-Orders-with-customer-information.md)
+   - [Case 3 - Most Recent Orders with customer information](Performance-Tuning/case3-Most-Orders-with-customer-information.md)
 
-- [Case 4 - List products that have low stock quantities](Performance-Tuning/case3-Most-Orders-with-customer-information.md)
+   - [Case 4 - List products that have low stock quantities](Performance-Tuning/case4-List-products-have-low-stock-quantities.md)
 
-- [Case 5 - Revenue generated from each product category.](Performance-Tuning/case3-Most-Orders-with-customer-information.md)
+   - [Case 5 - Revenue generated from each product category.](Performance-Tuning/case5-Revenue-generated-from-each-product-category.md)
 
 ## 💾 Tools  
 

@@ -1,9 +1,9 @@
-# Write database functions to insert data in customer tables around 100k  rows 
+# Write database Procedure to insert data in customer tables around 100k  rows 
 ```sql
 
  DELIMITER $$
 
- CREATE PROCEDURE insert_customers(
+ CREATE PROCEDURE insert_customers__batch(
      IN start_i INT, 
      IN end_i INT, 
      IN batch_size INT
